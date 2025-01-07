@@ -2,7 +2,7 @@
 
 
 ---
-## Project DIGITS
+## Project DIGITS: NVIDIA GB10 Grace Blackwell Superchip
 
 ---
 ### NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips
