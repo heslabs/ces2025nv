@@ -14,3 +14,8 @@
 https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips
  
 
+---
+Arm: We're bringing game-changing AI performance to developers’ fingertips with @NVIDIA
+https://x.com/Arm/status/1876490219282723195?mx=2 
+
+<img src="https://github.com/user-attachments/assets/bf45b7b5-5796-4106-9bb7-f5d430815e60" width=450>
