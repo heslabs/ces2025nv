@@ -3,7 +3,8 @@
 
 ---
 ## Project DIGITS: NVIDIA GB10 Grace Blackwell Superchip
-
+* 1 petaflop of performance at FP4 precision, 128GB of unified, coherent memory and up to 4TB of NVMe storage, developers can run up to 200-billion-parameter large language models
+  
 ---
 ### NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips
 https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips
