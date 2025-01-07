@@ -26,6 +26,7 @@ Green Light: NVIDIA Grace CPU Paves Fast Lane to Energy-Efficient Computing for 
 
 <br/>
 <img src="https://github.com/user-attachments/assets/4fa0bf21-5de3-40df-aefe-73ebeb44fe20" width=450>
+<img src="https://github.com/user-attachments/assets/31465dfc-7cc9-49d4-967d-f4fdef59a33d" width=550>
 
 ---
 * Nvidia’s “Grace” Arm CPU Holds Its Own Against X86 For HPC
