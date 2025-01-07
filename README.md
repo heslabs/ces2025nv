@@ -10,7 +10,7 @@
 * Linux-based NVIDIA DGX OS, deploy them seamlessly on NVIDIA DGX Cloud
 * Project DIGITS will be available in May from NVIDIA and top partners, starting at $3,000
   
----
 ### NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips
 https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips
  
+
