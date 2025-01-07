@@ -16,6 +16,16 @@
 https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips
 
 ---
+## NVIDIA Grace CPU
+Green Light: NVIDIA Grace CPU Paves Fast Lane to Energy-Efficient Computing for Every Data Center
+* https://blogs.nvidia.com/blog/grace-cpu-energy-efficiency/
+* In tests of real workloads, the NVIDIA Grace CPU Superchip scored **2x performance gains** over x86 processors at the **same power envelope** across major data center CPU applications.
+* It uses an ultra-fast fabric to connect 72 Arm Neoverse V2 cores in a single die that sports 3.2 terabytes per second in fabric bisection bandwidth, a standard measure of throughput.
+* Then it connects two of those dies in a superchip  package with the NVIDIA NVLink-C2C interconnect, delivering 900 GB/s of bandwidth.
+
+<img src="https://github.com/user-attachments/assets/4fa0bf21-5de3-40df-aefe-73ebeb44fe20" width=650>
+
+---
 ### Nvidia’s “Grace” Arm CPU Holds Its Own Against X86 For HPC
 https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/
 * That yields a total of **144 Arm Neoverse “Demeter” V2 cores** with the **Armv9 architecture**, and 1 TB of physical memory with 1.1 TB/sec of peak theoretical bandwidth
