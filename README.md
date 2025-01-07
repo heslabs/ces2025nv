@@ -52,3 +52,6 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
 ## RTX 5090
 
 <img src="https://github.com/user-attachments/assets/a0df7aea-11e6-49c2-8451-841b52a577fb" width=650>
+
+<img src="https://github.com/user-attachments/assets/b92be146-44eb-4414-bd65-59d8bdcea5b0" width=650>
+ 
