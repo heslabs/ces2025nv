@@ -7,7 +7,7 @@
 * Developers can run up to **200-billion-parameter large language models**
 * Using **NVIDIA ConnectX®** networking, two Project DIGITS AI supercomputers can be linked to run up to **405-billion-parameter models**
 * **Linux-based NVIDIA DGX OS**, deploy them seamlessly on **NVIDIA DGX Cloud**
-* Project DIGITS will be available in May from NVIDIA and top partners, starting at **$3,000**
+* Project DIGITS will be available in May 2025 from NVIDIA and top partners, starting at **$3,000**
 
 <br/>
 <img src="https://github.com/user-attachments/assets/926a0963-1248-4a10-a49f-961c836bf46d" width=450>
