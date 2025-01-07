@@ -9,6 +9,7 @@
 * **Linux-based NVIDIA DGX OS**, deploy them seamlessly on **NVIDIA DGX Cloud**
 * Project DIGITS will be available in May from NVIDIA and top partners, starting at **$3,000**
 
+<br/>
 <img src="https://github.com/user-attachments/assets/926a0963-1248-4a10-a49f-961c836bf46d" width=450>
 
 ---
@@ -23,7 +24,8 @@ Green Light: NVIDIA Grace CPU Paves Fast Lane to Energy-Efficient Computing for 
 * It uses an ultra-fast fabric to connect 72 Arm Neoverse V2 cores in a single die that sports 3.2 terabytes per second in fabric bisection bandwidth, a standard measure of throughput.
 * Then it connects two of those dies in a superchip  package with the NVIDIA NVLink-C2C interconnect, delivering 900 GB/s of bandwidth.
 
-<img src="https://github.com/user-attachments/assets/4fa0bf21-5de3-40df-aefe-73ebeb44fe20" width=650>
+<br/>
+<img src="https://github.com/user-attachments/assets/4fa0bf21-5de3-40df-aefe-73ebeb44fe20" width=450>
 
 ---
 ### Nvidia’s “Grace” Arm CPU Holds Its Own Against X86 For HPC
@@ -34,6 +36,7 @@ https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-agai
 ### Arm Neoverse V2
 https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
 
+<br/>
 <img src="https://github.com/user-attachments/assets/c874d702-f74d-425c-a7d1-b20fce9bb6d8" width=650>
 
 ---
