@@ -46,3 +46,9 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
 * Arm: We're bringing game-changing AI performance to developers’ fingertips with @NVIDIA
     * https://x.com/Arm/status/1876490219282723195?mx=2
   <img src="https://github.com/user-attachments/assets/bf45b7b5-5796-4106-9bb7-f5d430815e60" width=350>
+
+
+---
+## RTX 5090
+
+<img src="https://github.com/user-attachments/assets/a0df7aea-11e6-49c2-8451-841b52a577fb" width=650>
