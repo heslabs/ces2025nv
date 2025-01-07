@@ -14,7 +14,17 @@
 ---
 ### NVIDIA Puts Grace Blackwell on Every Desk and at Every AI Developer’s Fingertips
 https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips
- 
+
+---
+### Nvidia’s “Grace” Arm CPU Holds Its Own Against X86 For HPC
+https://www.nextplatform.com/2024/02/06/nvidias-grace-arm-cpu-holds-its-own-against-x86-for-hpc/
+* That yields a total of **144 Arm Neoverse “Demeter” V2 cores** with the **Armv9 architecture**, and 1 TB of physical memory with 1.1 TB/sec of peak theoretical bandwidth
+
+---
+### Arm Neoverse V2
+https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
+
+<img src="https://github.com/user-attachments/assets/c874d702-f74d-425c-a7d1-b20fce9bb6d8" width=650>
 
 ---
 ### Arm: We're bringing game-changing AI performance to developers’ fingertips with @NVIDIA
