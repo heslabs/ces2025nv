@@ -39,6 +39,8 @@ https://www.arm.com/products/silicon-ip-cpu/neoverse/neoverse-v2
 
 <img src="https://github.com/user-attachments/assets/c874d702-f74d-425c-a7d1-b20fce9bb6d8" width=650>
 
+<img src="https://github.com/user-attachments/assets/1a5aecb1-eb00-4bef-af7b-36e86012e9aa" width=850>
+
 ---
 * Arm: We're bringing game-changing AI performance to developers’ fingertips with @NVIDIA
     * https://x.com/Arm/status/1876490219282723195?mx=2
